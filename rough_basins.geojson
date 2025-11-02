@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "Rough_Basins",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4326" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "title": "Taixinan Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117.0, 18.7],[116.5, 21.7],[119.0, 22.5],[120.6, 23.8],[121.0, 23.9],[121.5, 22.7],[120.0, 21.5],[118.0, 19.5],[117.0, 18.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Pearl River Mouth Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.7,18.8],[111.2,19.8],[114.5,21.5],[115.4,22.2],[117.0,20.0],[115.2,19.2],[115.0,18.2],[113.9,18.9],[113.2,19.1],[110.7,18.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Phu Khanh Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[109.6,12.7],[110.6,12.6],[110.9,11.5],[110.9,10.8],[109.9,9.2],[109.4,10.0],[109.0,10.8],[109.6,11.3],[109.6,12.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Cuu Long Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[109.0,10.8],[109.4,10.0],[109.9,9.2],[108.4,8.3],[106.9,7.9],[106.0,9.1],[107.1,9.7],[107.6,10.3],[109.0,10.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Nam Con Son Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[109.9,9.2],[111.0,9.3],[112.0,9.8],[110.9,8.3],[110.0,7.4],[108.6,6.5],[107.7,7.0],[106.9,7.9],[108.4,8.3],[109.9,9.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Greater Sarawak Basin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110.0,7.4],[111.2,6.8],[112.8,6.9],[112.9,5.3],[114.7,3.8],[113.2,3.3],[111.3,2.9],[111.0,1.9],[109.7,2.0],[109.3,3.5],[108.6,6.5],[110.0,7.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Baram Delta" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.3,9.2],[118.5,8.8],[117.6,7.5],[116.9,6.1],[114.7,3.8],[112.9,5.3],[112.8,6.9],[113.7,7.1],[114.6,7.6],[115.7,8.0],[118.3,9.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Palawan Shelf" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.3,9.2],[118.7,10.5],[120.0,11.7],[121.5,12.7],[121.7,13.3],[122.1,12.6],[120.9,11.1],[119.5,10.0],[118.5,8.8],[118.3,9.2]]]
+      }
+    }
+  ]
+}
