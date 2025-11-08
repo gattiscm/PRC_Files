@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.14502094448,
+          28.7912359616389
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "Id": 0,
+        "Name": "Platform 1",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-1.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.108853137191,
+          28.6446611636797
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "Id": 0,
+        "Name": "Platform 2",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-2.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.171670907745,
+          28.5761326867118
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "Id": 0,
+        "Name": "Platform 3",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-3.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.127888825238,
+          29.2937781260702
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "Id": 0,
+        "Name": "Platform 4",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-4.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.028903247395,
+          29.1605283097437
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "Id": 0,
+        "Name": "Platform 5",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-5.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.956567632818,
+          28.9758821356913
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "Id": 0,
+        "Name": "Platform 6",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-6.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.124081687629,
+          28.8978358147001
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "Id": 0,
+        "Name": "Platform 7 and 10",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platforms-7-and-10.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.270656485588,
+          28.8350180441461
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "Id": 0,
+        "Name": "Platform 8",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-8.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9489533576,
+          29.0101463741752
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "Id": 0,
+        "Name": "Platform 9 and Pinghu",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-9-and-Pinghu.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28778860483,
+          29.5298206578486
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "Id": 0,
+        "Name": "Platform 11",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-11.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.224970834276,
+          29.5640848963325
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "Id": 0,
+        "Name": "Platform 12",
+        "Image_Link": "https://chinaus-icas.org/wp-content/uploads/2019/08/Maritime-Platform-12.jpg",
+        "Name_1": "Chinese Offshore Oil Rigs",
+        "Company": "China National Offshore Oil Corporation"
+      }
+    }
+  ]
+}
